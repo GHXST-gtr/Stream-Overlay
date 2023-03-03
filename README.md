@@ -11,6 +11,10 @@ Coming Soon? [not confirmed]
 
 ![image](https://user-images.githubusercontent.com/104390046/222556145-887a7abb-5e78-4d38-a9bf-3ecdc27f7eb7.png)
 
+note
+i got this idea from graze just a bit updated with more features
+i didnt use anything from his code
+
 # LEGAL
 this product is not affiliated with gorilla tag or 
 Another Axiom LLC and is not endorsed or
